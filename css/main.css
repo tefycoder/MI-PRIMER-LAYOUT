@@ -1,0 +1,126 @@
+
+.todo {    
+    margin: 0 auto;
+    text-align: center;
+}
+.todo hr {
+    width: 700px;
+    border: solid 1px #000000;
+}
+ul.entrada {
+    list-style: none;    
+}
+ul.entrada li a {
+    text-decoration: none;
+    color: #000000);
+}
+
+ul.entrada li a:hover {
+    background background-color:#000000 ;
+    color: #fff;
+}
+.entrada li {    
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 25px;
+}
+ul.entrada li:nth-child(1){border-right: solid 1px black}
+ul.entrada li:nth-child(2){border-right: solid 1px black}
+ul.entrada li:nth-child(3){border-right: solid 1px black}
+
+section.main {
+    margin: 30px auto 0 auto;
+    width: 50%;
+    text-align: center;    
+}
+section.main p {
+    text-align: center;
+    font-size: 30px;
+}
+section.main img {
+    width: 100%;
+}
+#hrArriba {
+    width: 60px;
+    border: solid 1px #000000;
+}
+#hrAbajo {
+    width: 60px;
+    border: solid 1px #000000;    
+}
+#titulo{
+    position: absolute;
+}
+#hr_nuestras_coders {
+    position: absolute;
+    width: 60px;
+    border: solid 1px #000000;  
+    text-align: left;
+    top: 50px;
+}
+div.coders {
+    position: relative;
+}
+div.coders lu{
+    position: relative;
+    top: 100px; 
+    list-style: none;
+    padding: 0;
+}
+
+div.coders lu li {
+    position: relative;
+    display: inline-block;
+}
+div.coders lu li img {
+    display: block;
+}
+div.coders lu li span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #fff;
+    z-index: 10;
+}
+
+
+/*segunda pagina *//*segunda pagina *//*segunda pagina *//*segunda pagina *//*segunda pagina *//*segunda pagina *//*segunda pagina *//*segunda pagina */
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    outline: solid 1px #000;
+    padding: 20px 0;
+    border: 2px solid black;
+}
+
+.hola  {
+    display: block;
+    border-radius: 100%;
+    
+}
+h3 {
+    text-align: left;
+    font-size: 30px;
+        color: #000;
+}
+
+.habilidades p {
+    background: gainsboro;    
+    margin: 10px;  
+    text-align: left;
+    padding: 20px 0;}
+
+.habilidades p:nth-child(1){width: 80%}
+.habilidades p:nth-child(2){width: 50%}
+.habilidades p:nth-child(3){width: 20%}
+
+.portafolio img{
+    position: relative;
+    width: 30%;
+        
+}
+
+
+
+
